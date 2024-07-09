@@ -5,7 +5,7 @@
 
 <h3 align="left">Anti-Social Social Life:</h3>
 <a href="https://t.me/poincare"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="40px" height="40px"></a>
-<a href="https://t.me/bavariansausages"><img src="https://es.m.wikipedia.org/wiki/Archivo:Telegram_X_2019_Logo.svg" width="40px" height="40px"></a>
+<a href="https://t.me/bavariansausages"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" width="40px" height="40px"></a>
 <p align="left">
 </p>
 
