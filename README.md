@@ -3,8 +3,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georghegel" alt="georghegel" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://t.me/poincare">Telegram</a><br>
+<h3 align="left">Anti-Social Social Life:</h3>
+<a href="https://t.me/poincare">Telegram</a>
 <a href="https://t.me/bavariansausages">Telegram Channel</a>
 <p align="left">
 </p>
