@@ -1,7 +1,3 @@
-# georghegel
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h1 align="center">h1 my n4m3 1s b4b4k</h1>
 <h3 align="center">Malware Research and Applicant Security enthusiast</h3>
 
