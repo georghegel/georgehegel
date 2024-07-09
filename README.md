@@ -1,11 +1,11 @@
 <h1 align="center">🔒georghegel | p0incar3 (CTF)🔑</h1>
-<h3 align="center">Malware Research and Applicant Security enthusiast</h3>
+<h3 align="center">Malware Research and Reverse Engineering enthusiast</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georghegel" alt="georghegel" /></a> </p> -->
 
 <h3 align="left">Anti-Social Social Life:</h3>
 <a href="https://t.me/poincare">Telegram</a>
-<a href="https://t.me/bavariansausages">Telegram Channel</a>
+<a href="https://t.me/bavariansausages">Telegram Blog</a>
 <p align="left">
 </p>
 
