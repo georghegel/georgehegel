@@ -4,8 +4,8 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georghegel" alt="georghegel" /></a> </p> -->
 
 <h3 align="left">Anti-Social Social Life:</h3>
-<a href="https://t.me/poincare">Telegram<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="40px" height="40px"></a><br>
-<a href="https://t.me/bavariansausages">Blog:<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" width="40px" height="40px"></a><br>
+<a href="https://t.me/poincare"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="40px" height="40px"></a>
+<a href="https://t.me/bavariansausages"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" width="40px" height="40px"></a><br>
 Telegram | Blog
 <p align="left">
 </p>
