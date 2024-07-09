@@ -1,4 +1,4 @@
-<h1 align="center">🔒h1 my n4m3 1s b4b4k🔑</h1>
+<h1 align="center">🔒georghegel | p0incar3 (CTF)🔑</h1>
 <h3 align="center">Malware Research and Applicant Security enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georghegel" alt="georghegel" /></a> </p>
