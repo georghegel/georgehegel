@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georghegel" alt="georghegel" /></a> </p> -->
 
 <h3 align="left">Anti-Social Social Life:</h3>
-<a href="https://t.me/poincare">Telegram<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="100px" height="100px"></a>
+<a href="https://t.me/poincare">Telegram<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="50px" height="50px"></a>
 <a href="https://t.me/bavariansausages">Telegram Blog</a>
 <p align="left">
 </p>
